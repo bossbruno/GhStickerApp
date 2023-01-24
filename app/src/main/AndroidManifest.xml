@@ -7,9 +7,9 @@
         android:name=".StickerApplication"
         android:allowBackup="false"
         android:fullBackupContent="false"
-        android:icon="@drawable/ghanaflagicon"
+        android:icon="@drawable/appicon"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/ghanaflagicon"
+        android:roundIcon="@drawable/appicon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
