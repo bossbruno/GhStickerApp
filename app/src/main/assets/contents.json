@@ -1,10 +1,9 @@
 {
-  "android_play_store_link": "",
+  "android_play_store_link": "https://play.google.com/store/apps/developer?id=TheDen+Publications",
   "ios_app_store_link": "",
   "sticker_packs": [
 
-    {
-      "identifier": "WHO",
+    {"identifier": "WHO",
       "name": "Together While Apart",
       "publisher": "World Health Organization",
       "tray_image_file": "01.png",
@@ -186,8 +185,8 @@
         }
       ]
     },
-    {
-      "identifier": "emotions",
+
+    {"identifier": "emotions",
       "name": "Emotions",
       "publisher": "TheDen",
       "tray_image_file": "emotions.png",
@@ -225,7 +224,16 @@
         },  {
           "image_file": "laughspit.webp",
           "emojis": ["😆", "😂"]
-        },  {
+        },
+        {
+          "image_file": "kevinhartlaughing.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "pinkpanther.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
           "image_file": "shocked.webp",
           "emojis": ["🤔", "🙂"]
         },
@@ -235,7 +243,12 @@
         }, {
           "image_file": "what-are-you-saying.webp",
           "emojis": ["❓", "🙂"]
-        }, {
+        },
+        {
+          "image_file": "kodakdisgust.webp",
+          "emojis": ["❓", "🙂"]
+        },
+        {
           "image_file": "what-have-idone.webp",
           "emojis": ["☕", "🙂"]
         },
@@ -255,13 +268,16 @@
           "emojis": ["☕", "🙂"]
         }
       ,
-
         {
           "image_file": "OOPS.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😅", "🙂"]
+        }, {
+          "image_file": "stressed.webp",
+          "emojis": ["😂", "🙂"]
         }
       ]
     },
+
     {"identifier": "basketball",
       "name": "Basketball",
       "publisher": "TheDen",
@@ -288,14 +304,28 @@
       , {
           "image_file": "iggy-shrug.webp",
           "emojis": ["⛹", "🏀"]
+        },{
+          "image_file": "lebronlaughing.webp",
+          "emojis": ["⛹", "🏀"]
+        },
+        {
+          "image_file": "zionmuscles.webp",
+          "emojis": ["⛹", "🏀"]
+        },
+        {
+          "image_file": "kdandkyrie.webp",
+          "emojis": ["⛹", "🏀"]
+        },
+        {
+          "image_file": "kdface.webp",
+          "emojis": ["⛹", "🏀"]
         }
-
 
 
       ]
     },
-    {
-      "identifier": "memes",
+
+    {"identifier": "memes",
       "name": "Memes",
       "publisher": "TheDen",
       "tray_image_file": "memesicon.png",
@@ -307,59 +337,91 @@
       "stickers":[
         {
           "image_file": "GRANDFATHER-STK.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         },
          {
           "image_file": "akoa-y3-forken.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         }, {
           "image_file": "jesuspeeking.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         }, {
           "image_file": "ano-want-talk-anything.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         }, {
           "image_file": "deadpool-priest.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         },
         {
           "image_file": "djkhaled-you-smart.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         },
         {
           "image_file": "Fasorhor.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         },  {
           "image_file": "ken-agyapong.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         }, {
           "image_file": "nana-woy-sure.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         }, {
           "image_file": "ntrohene.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         }, {
           "image_file": "nyantakyi-hot.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         }, {
           "image_file": "use-your-head.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         }, {
           "image_file": "voldermort-goaway.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         }, {
           "image_file": "wetin-you-gain.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         },
-
+        {
+          "image_file": "whoasked.webp",
+          "emojis": ["😂","😃"]
+        },
         {
           "image_file": "TWODOGSSTICK.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
         }
       , {
           "image_file": "hi.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😂", "🙂"]
+        },
+        {
+          "image_file": "gerrahere.webp",
+          "emojis": ["😂", "🙂"]
+        }, {
+          "image_file": "wedontdothathere.webp",
+          "emojis": ["😂", "🙂"]
+        },
+        {
+          "image_file": "itiswell.webp",
+          "emojis": ["😂", "🙂"]
+        },
+
+        {
+          "image_file": "wemovethis.webp",
+          "emojis": ["😂", "🙂"]
+        },
+        {
+          "image_file": "wemovethat.webp",
+          "emojis": ["😂", "🙂"]
+        },
+        {
+          "image_file": "iwillbethere.webp",
+          "emojis": ["😂", "🙂"]
+        },
+        {
+          "image_file": "mounotspeak.webp",
+          "emojis": ["😂", "🙂"]
         }
+
 
       ]
     },
@@ -412,7 +474,10 @@
             "🍪"
           ]
         },
-
+        {
+          "image_file": "messitongue.webp",
+          "emojis": ["⚽", "👎"]
+        },
         {
           "image_file": "sakho-salute.webp",
           "emojis": [
@@ -420,54 +485,262 @@
             "😠"
           ]
         },
-
+        {
+          "image_file": "messikisswc.webp",
+          "emojis": ["⚽", "👎"]
+        },
         {
           "image_file": "zidane-headbutt.webp",
-          "emojis": [
-            "⚽",
-            "😜"
-          ]
+          "emojis": ["⚽", "😜"]
         },
 
         {
           "image_file": "kante.webp",
-          "emojis": [
-            "⚽",
-            "👎"
-          ]
+          "emojis": ["⚽", "👎"]
         },
         {
           "image_file": "mancity-logo.webp",
-          "emojis": [
-            "⚽",
-            "👋"
-          ]
+          "emojis": ["⚽", "👋"]
+        },
+        {
+          "image_file": "refcalmdown.webp",
+          "emojis": ["⚽", "👋"]
+        },
+        {
+          "image_file": "ozilworried.webp",
+          "emojis": ["⚽", "👋"]
+        },
+        {
+          "image_file": "ronaldoshock.webp",
+          "emojis": ["⚽", "👎"]
         },
         {
           "image_file": "mosalah.webp",
-          "emojis": [
-            "⚽",
-            "😌"
-          ]
+          "emojis": ["⚽", "😌"]
         },
+
         {
           "image_file": "liverpool-logo.webp",
-          "emojis": [
-            "⚽",
-            "😦"
-          ]
+          "emojis": ["⚽", "😦"]
+        },
+        {
+          "image_file": "ramosface.webp",
+          "emojis": ["⚽", "😦"]
+        },
+        {
+          "image_file": "depaycloseears.webp",
+          "emojis": ["⚽", "😦"]
         },
 
         {
           "image_file": "dybalamask.webp",
-          "emojis": [
-            "📱",
-            "👋"
-
-          ]
+          "emojis": ["⚽", "😦"]
+        },{
+          "image_file": "courtoisshame.webp",
+          "emojis": ["⚽", "😦"]
+        },
+        {
+          "image_file": "Perez.webp",
+          "emojis": ["⚽", "😦"]
+        },
+        {
+          "image_file": "suarez.webp",
+          "emojis": ["⚽", "😦"]
         }
 
+
       ]
+    },
+
+    {"identifier": "Funny",
+      "name": "Funny",
+      "publisher": "TheDen",
+      "tray_image_file": "funnyicon.png",
+      "publisher_email": "kwakye105@gmail.com",
+      "image_data_version": "1",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers":[
+        {
+          "image_file": "sydneyeyes.webp",
+          "emojis": ["😂","😃"]
+        }, {
+          "image_file": "lilwindrink.webp",
+          "emojis": ["😂","😃"]
+        }, {
+          "image_file": "no-man.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "take2.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "hithead.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "ronaldinhohitronaldo.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "sydneyblackface.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "wearingdarkshades.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "sabinus.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "cleangun.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "woyale.webp",
+          "emojis": ["😂","😃"]
+        },
+
+        {
+          "image_file": "wearingdarkshades.webp",
+          "emojis": ["😂","😃"]
+        },{
+          "image_file": "evilsmile.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "drun.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "codface.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "sydneywarning.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "pawpawdrink.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "fayaa.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "whyareyougay.webp",
+          "emojis": ["😂","😃"]
+        },
+
+        {
+          "image_file": "wickedsmile.webp",
+          "emojis": ["😂","😃"]
+        },
+
+        {
+          "image_file": "dustface.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "kenofori.webp",
+          "emojis": ["😂","😃"]
+        }
+      ]
+    },
+
+    {"identifier": "stick",
+      "name": "Stick Figures",
+      "publisher": "TheDen",
+      "tray_image_file": "icon.png",
+      "publisher_email": "kwakye105@gmail.com",
+      "image_data_version": "1",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers":[
+        {
+          "image_file": "readpaper.webp",
+          "emojis": ["😂","😃"]
+        },
+
+        {
+          "image_file": "vibecheck.webp",
+          "emojis": ["😂","😃"]
+        },
+
+        {
+          "image_file": "strangle.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "coolguy.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "cryingwithphone.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "drinkguy.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "holdingcup.webp",
+          "emojis": ["😂","😃"]
+        },
+
+        {
+          "image_file": "lookside.webp",
+          "emojis": ["😂","😃"]
+        },
+
+        {
+          "image_file": "crying.webp",
+          "emojis": ["😂","😃"]
+        },
+
+        {
+          "image_file": "blank.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "gunanddrink.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "holdingcross.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "takewater.webp",
+          "emojis": ["😂","😃"]
+        },
+
+        {
+          "image_file": "inlove.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "pondering.webp",
+          "emojis": ["😂","😃"]
+        },
+
+        {
+          "image_file": "lurking.webp",
+          "emojis": ["😂","😃"]
+        },
+        {
+          "image_file": "weirdface.webp",
+          "emojis": ["😂","😃"]
+        }
+          ]
+
     }
+
   ]
 }
